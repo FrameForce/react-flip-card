@@ -1,12 +1,25 @@
-import React, { Component } from 'react';
+import React from 'react';
+
+import { Avatar } from '../Avatar';
+import { FlipCard } from '../FlipCard';
+import { Profile } from '../Profile';
 
 import './App.css';
 
-class App extends Component {
+class App extends React.Component {
+	renderFrontCard = () => <Avatar />;
+
+	renderBackCard = () => <Profile />;
+
 	render() {
 		return (
 			<div className="App">
-				App
+				<h1>Flip Card</h1>
+				<h2>Mouse over the image to flip the card</h2>
+				<FlipCard
+					renderFront={this.renderFrontCard}
+					renderBack={this.renderBackCard}
+				/>
 			</div>
 		);
 	}
