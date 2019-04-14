@@ -1,2 +1,2 @@
 # react-flip-card
-A React flip card user component 
+A React user card component with a flip effect.
