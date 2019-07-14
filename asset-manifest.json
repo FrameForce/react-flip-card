@@ -1,13 +1,15 @@
 {
-  "main.css": "/react-flip-card/static/css/main.e9e1aceb.chunk.css",
-  "main.js": "/react-flip-card/static/js/main.37964573.chunk.js",
-  "main.js.map": "/react-flip-card/static/js/main.37964573.chunk.js.map",
-  "runtime~main.js": "/react-flip-card/static/js/runtime~main.7ddfda00.js",
-  "runtime~main.js.map": "/react-flip-card/static/js/runtime~main.7ddfda00.js.map",
-  "static/js/2.c084affd.chunk.js": "/react-flip-card/static/js/2.c084affd.chunk.js",
-  "static/js/2.c084affd.chunk.js.map": "/react-flip-card/static/js/2.c084affd.chunk.js.map",
-  "index.html": "/react-flip-card/index.html",
-  "precache-manifest.f69889aabd6c36b7729e907e531ab94e.js": "/react-flip-card/precache-manifest.f69889aabd6c36b7729e907e531ab94e.js",
-  "service-worker.js": "/react-flip-card/service-worker.js",
-  "static/css/main.e9e1aceb.chunk.css.map": "/react-flip-card/static/css/main.e9e1aceb.chunk.css.map"
+  "files": {
+    "main.css": "/react-flip-card/static/css/main.9b8d7cc5.chunk.css",
+    "main.js": "/react-flip-card/static/js/main.8ba003f2.chunk.js",
+    "main.js.map": "/react-flip-card/static/js/main.8ba003f2.chunk.js.map",
+    "runtime~main.js": "/react-flip-card/static/js/runtime~main.7ddfda00.js",
+    "runtime~main.js.map": "/react-flip-card/static/js/runtime~main.7ddfda00.js.map",
+    "static/js/2.c084affd.chunk.js": "/react-flip-card/static/js/2.c084affd.chunk.js",
+    "static/js/2.c084affd.chunk.js.map": "/react-flip-card/static/js/2.c084affd.chunk.js.map",
+    "index.html": "/react-flip-card/index.html",
+    "precache-manifest.d6f2f04a8a77a4193d030a75c58b9605.js": "/react-flip-card/precache-manifest.d6f2f04a8a77a4193d030a75c58b9605.js",
+    "service-worker.js": "/react-flip-card/service-worker.js",
+    "static/css/main.9b8d7cc5.chunk.css.map": "/react-flip-card/static/css/main.9b8d7cc5.chunk.css.map"
+  }
 }
