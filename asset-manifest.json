@@ -1,15 +1,22 @@
 {
   "files": {
-    "main.css": "/react-flip-card/static/css/main.9b8d7cc5.chunk.css",
-    "main.js": "/react-flip-card/static/js/main.8ba003f2.chunk.js",
-    "main.js.map": "/react-flip-card/static/js/main.8ba003f2.chunk.js.map",
-    "runtime~main.js": "/react-flip-card/static/js/runtime~main.7ddfda00.js",
-    "runtime~main.js.map": "/react-flip-card/static/js/runtime~main.7ddfda00.js.map",
-    "static/js/2.c084affd.chunk.js": "/react-flip-card/static/js/2.c084affd.chunk.js",
-    "static/js/2.c084affd.chunk.js.map": "/react-flip-card/static/js/2.c084affd.chunk.js.map",
+    "main.css": "/react-flip-card/static/css/main.579f2463.chunk.css",
+    "main.js": "/react-flip-card/static/js/main.7b5356db.chunk.js",
+    "main.js.map": "/react-flip-card/static/js/main.7b5356db.chunk.js.map",
+    "runtime-main.js": "/react-flip-card/static/js/runtime-main.c0c84307.js",
+    "runtime-main.js.map": "/react-flip-card/static/js/runtime-main.c0c84307.js.map",
+    "static/js/2.cb1ece22.chunk.js": "/react-flip-card/static/js/2.cb1ece22.chunk.js",
+    "static/js/2.cb1ece22.chunk.js.map": "/react-flip-card/static/js/2.cb1ece22.chunk.js.map",
     "index.html": "/react-flip-card/index.html",
-    "precache-manifest.d6f2f04a8a77a4193d030a75c58b9605.js": "/react-flip-card/precache-manifest.d6f2f04a8a77a4193d030a75c58b9605.js",
+    "precache-manifest.751bd9667b7d8c4c79886aecb9b4375b.js": "/react-flip-card/precache-manifest.751bd9667b7d8c4c79886aecb9b4375b.js",
     "service-worker.js": "/react-flip-card/service-worker.js",
-    "static/css/main.9b8d7cc5.chunk.css.map": "/react-flip-card/static/css/main.9b8d7cc5.chunk.css.map"
-  }
+    "static/css/main.579f2463.chunk.css.map": "/react-flip-card/static/css/main.579f2463.chunk.css.map",
+    "static/js/2.cb1ece22.chunk.js.LICENSE.txt": "/react-flip-card/static/js/2.cb1ece22.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0c84307.js",
+    "static/js/2.cb1ece22.chunk.js",
+    "static/css/main.579f2463.chunk.css",
+    "static/js/main.7b5356db.chunk.js"
+  ]
 }
