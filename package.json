@@ -14,13 +14,13 @@
     "prettier:fix": "prettier --config .prettierrc.json --write 'src/**/*.{js,jsx,scss,css}'"
   },
   "dependencies": {
-    "prettier": "^1.17.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
   },
   "devDependencies": {
-    "gh-pages": "^2.0.1"
+    "gh-pages": "^2.0.1",
+    "prettier": "^2.1.1"
   },
   "eslintConfig": {
     "extends": "react-app"
